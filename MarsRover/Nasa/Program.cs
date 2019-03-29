@@ -6,6 +6,9 @@ using Rover;
 
 namespace Nasa
 {
+    /// <summary>
+    /// Client
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

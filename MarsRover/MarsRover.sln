@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasa", "Nasa\Nasa.csproj", "{82B27927-CB3F-46C9-BCE2-059DB68BC33B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rover", "Rover\Rover.csproj", "{5DBEEBA3-B25B-467A-A047-D641CF6EC873}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rover.Test", "Rover.Test\Rover.Test.csproj", "{083AA553-8DA9-483C-B0A8-3912C41D01AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +21,11 @@ Global
 		{5DBEEBA3-B25B-467A-A047-D641CF6EC873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DBEEBA3-B25B-467A-A047-D641CF6EC873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DBEEBA3-B25B-467A-A047-D641CF6EC873}.Release|Any CPU.Build.0 = Release|Any CPU
-		{083AA553-8DA9-483C-B0A8-3912C41D01AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{083AA553-8DA9-483C-B0A8-3912C41D01AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{083AA553-8DA9-483C-B0A8-3912C41D01AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{083AA553-8DA9-483C-B0A8-3912C41D01AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321B2ED4-3EAB-4B77-ABA6-C4897BC66C99}
 	EndGlobalSection
 EndGlobal
